@@ -1,0 +1,178 @@
+[
+  {
+    "title": "R-Shirt DC",
+    "price": "299",
+    "desc": "test product",
+    "size": [
+      "S"
+    ],
+    "category": "T-Shirt",
+    "stock": "Available",
+    "userId": "f1d7c5b2-0133-4942-a8aa-3a871ea38aee",
+    "imgPath": [
+      "http://localhost:3000/Products\\productimage_1729249860746.jpg"
+    ]
+  },
+  {
+    "title": "Marvel T-Shirt",
+    "price": "2000",
+    "desc": "This brand new Marvel-themed t-shirt is perfect for fans and casual wear.",
+    "size": [
+      "L",
+      "XL"
+    ],
+    "category": "T-Shirt",
+    "stock": "Available",
+    "userId": "03f536c9-0b7e-4cc2-8e09-ffd99b17f900",
+    "imgPath": [
+      "http://localhost:3000/Products\\productimage_1729236157621.jpg"
+    ]
+  },
+  {
+    "title": "Nike Air Jordan 2",
+    "price": "20000",
+    "desc": "Brand new Nike Air Jordan 2 shoes, designed for comfort and style.",
+    "size": [
+      "8",
+      "9",
+      "10"
+    ],
+    "category": "Shoes",
+    "stock": "Available",
+    "userId": "96fa8ad6-cf74-4898-8858-c27d3814bca3",
+    "imgPath": "http://localhost:3000/Products\\productimage_1729167755979.jpg"
+  },
+  {
+    "title": "ASUS TUF Gaming Laptop",
+    "price": "40000",
+    "desc": "This brand new ASUS TUF Gaming laptop is built for gamers and performance enthusiasts.",
+    "category": "Laptop",
+    "stock": "Available",
+    "userId": "b43493e1-7d4f-4b43-9345-b36248ca8313",
+    "imgPath": [
+      "http://localhost:3000/Products\\productimage_1729248611053.jpeg",
+      "http://localhost:3000/Products\\productimage_1729248611054.jpeg"
+    ]
+  },
+  {
+    "title": "Levi's Men's Jeanss",
+    "price": "2000",
+    "desc": "Stylish and comfortable Levi's jeans for a trendy look.",
+    "size": [
+      "S",
+      "M",
+      "L"
+    ],
+    "category": "Jeans",
+    "stock": "Available",
+    "userId": "527da5ec-b63f-4c85-93bc-e12fda9c0139",
+    "imgPath": [
+      "http://localhost:3000/Products\\productimage_1729235931063.jpg"
+    ]
+  },
+  {
+    "title": "Denim Jacket for Men",
+    "price": "1000",
+    "desc": "A stylish denim jacket for men, perfect for any casual occasion.",
+    "size": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "category": "Jacket",
+    "stock": "Available",
+    "userId": "37b2ace5-e509-4cfb-a037-cbc4879acdc0",
+    "imgPath": [
+      "http://localhost:3000/Products\\productimage_1729231005706.jpg"
+    ]
+  },
+  {
+    "title": "hp gaming laptop",
+    "price": "50000",
+    "desc": "THis is an amazing laptop",
+    "category": "Laptop",
+    "stock": "Available",
+    "userId": "459d66b4-7265-4dfb-8875-c7f8d48ff09b",
+    "imgPath": [
+      "http://localhost:3000/Products\\productimage_1729233926892.jpeg"
+    ]
+  },
+  {
+    "title": "Levis Jeans Men",
+    "price": "2000",
+    "desc": "this is an brand new amazind Jean",
+    "size": [
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "category": "Jeans",
+    "stock": "Available",
+    "userId": "287ab429-f027-459a-8d70-0e14c218902c",
+    "imgPath": [
+      "http://localhost:3000/Products\\productimage_1729247104813.jpg",
+      "http://localhost:3000/Products\\productimage_1729247104815.jpeg"
+    ]
+  },
+  {
+    "title": "Red Tape Shoes",
+    "price": "30000",
+    "desc": "asdsadasdadasda",
+    "size": [
+      "S",
+      "M",
+      "L"
+    ],
+    "category": "Shoes",
+    "stock": "Unavailable",
+    "userId": "c590cfec-0139-4037-85cc-cb6495d82675",
+    "imgPath": [
+      "http://localhost:3000/Products\\productimage_1729231674719.jpg"
+    ]
+  },
+  {
+    "title": "Iphone 15",
+    "price": 90000,
+    "desc": "Amazing new mobile phone",
+    "category": "Mobile",
+    "stock": "Available",
+    "userId": "30df45bf-c1f2-423c-9411-f6fddae90fa9",
+    "imgPath": [
+      "http://localhost:3000/Products\\productimage_1729234450193.jpeg"
+    ]
+  },
+  {
+    "title": "dassadad",
+    "price": 22222,
+    "desc": "wwwwwwwwwwwwwwww",
+    "category": "Furniture",
+    "stock": "Available",
+    "userId": "33caf006-9b35-4ef1-825e-1f35eaba05d0",
+    "imgPath": [
+      "http://localhost:3000/Products\\productimage_1729247791607.png",
+      "http://localhost:3000/Products\\productimage_1729247791607.jpeg"
+    ]
+  },
+  {
+    "title": "All Products",
+    "price": 100000,
+    "desc": "Selling All Products",
+    "size": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "category": "T-Shirt",
+    "stock": "Available",
+    "userId": "66588946-d14d-4a95-8baf-f060d31dc28e",
+    "imgPath": [
+      "http://localhost:3000/Products\\productimage_1729248211941.png",
+      "http://localhost:3000/Products\\productimage_1729248211942.jpeg",
+      "http://localhost:3000/Products\\productimage_1729248211942.jpeg",
+      "http://localhost:3000/Products\\productimage_1729248211942.jpg",
+      "http://localhost:3000/Products\\productimage_1729248211947.jpg"
+    ]
+  }
+]

@@ -1,0 +1,83 @@
+[
+  {
+    "name": "ssss",
+    "gender": "male",
+    "mobile": 1234567888,
+    "email": "shoryaaa@gmail.com",
+    "password": "$2b$10$ome8SPzjwVHHyvrnJuf/w.IY2io6UJSTfitoZr4yyd79FeiLfdwOK",
+    "userId": "b6378d9f-8130-4333-ab36-5fc5da35b26f",
+    "imgPath": "http://localhost:3000/images\\image_1728990078221.png"
+  },
+  {
+    "name": "adsad",
+    "gender": "male",
+    "mobile": "1234567899",
+    "email": "shoryav12@gmail.com",
+    "password": "$2b$10$HZk97mIGcErhC97xy3q8k.ImsY.VZaw1URokWVPWql4dUWFEBGFAi",
+    "userId": "f2501639-589e-4ffa-a736-a411308f8813",
+    "imgPath": "http://localhost:3000/images\\image_1728990078221.png"
+  },
+  {
+    "name": "Shorya",
+    "gender": "male",
+    "mobile": "1234567888",
+    "email": "shoryavv@gmail.com",
+    "password": "$2b$10$DtxAzLpR3Wstq8Hh9/PGv.iu.BBX18ib6mulPDzFaeYvZlzw82hEC",
+    "userId": "9a451dbd-8ae8-44df-a2f0-7aeba8332645",
+    "imgPath": "http://localhost:3000/images\\image_1728990078221.png"
+  },
+  {
+    "name": "mani Singh",
+    "gender": "male",
+    "mobile": 1234567881,
+    "email": "maniss@gmail.com",
+    "password": "$2b$10$ItwKa6G9PTcLoJdKW4r3.e61quPS8Ab8rD6LlwgYlwVMboBVq1vUq",
+    "userId": "8b948351-765f-47fc-a108-3e031aee70b2",
+    "imgPath": "http://localhost:3000/images\\image_1729055422147.png"
+  },
+  {
+    "name": "rahul",
+    "gender": "male",
+    "mobile": 1234567888,
+    "email": "rahul1@gmail.com",
+    "password": "$2b$10$5eaOHYTu0bxibjtjCSKGIuK74qoiwduVjgs4ciOX4KYdJM/g7xmSa",
+    "userId": "c4c4a240-c369-4e06-944d-e7a71000ca55",
+    "imgPath": "http://localhost:3000/images\\image_1729053679443.png"
+  },
+  {
+    "name": "shorya",
+    "gender": "male",
+    "mobile": "1234567888",
+    "email": "abc@gmail.com",
+    "password": "$2b$10$dECeWUJMZ0JlbdVjrvx2p.AJNW/zGzaLZk9lgHZnD.RVIL.dI77HO",
+    "userId": "29e43203-2daf-460a-9836-32dba1a6eacd",
+    "imgPath": "http://localhost:3000/images\\image_1729230926272.png"
+  },
+  {
+    "name": "Gaurav",
+    "gender": "male",
+    "mobile": 1111111111,
+    "email": "shorya1234@gmail.com",
+    "password": "$2b$10$qVnqSGza63VTkJoO2mA6duKLzlQXvVc2clO2i4DlmwcWg0Heu/Zc.",
+    "userId": "dda183c9-3994-43c8-ae66-015ba88c0cbc",
+    "imgPath": "http://localhost:3000/images\\image_1729082839612.png"
+  },
+  {
+    "name": "shorya ",
+    "gender": "male",
+    "mobile": 1234567892,
+    "email": "mani123@gmail.com",
+    "password": "$2b$10$qAyGIyiciNb/z.yNAu2Hy.QFKbH/co7i2MMQ8fQI8lE57ZUbPIp8q",
+    "userId": "018c48c2-c86c-4960-8aaf-8869640715f1",
+    "imgPath": "http://localhost:3000/images\\image_1729136416622.png"
+  },
+  {
+    "name": "shorya ",
+    "gender": "male",
+    "mobile": "1234567890",
+    "email": "shoryav@gmail.com",
+    "password": "$2b$10$M4eYytjpyC1NMGxD64eR.e8FmF36XkNpYnsBxcyy2Hm0tb.DHmjYu",
+    "userId": "8c233e2b-44ba-4df8-a69e-6126fb143882",
+    "imgPath": "http://localhost:3000/images\\image_1729140405815.png"
+  }
+]

@@ -4,7 +4,9 @@
     "price": "299",
     "desc": "test product",
     "size": [
-      "S"
+      "M",
+      "L",
+      "XL"
     ],
     "category": "T-Shirt",
     "stock": "Available",
@@ -27,20 +29,6 @@
     "imgPath": [
       "http://localhost:3000/Products\\productimage_1729236157621.jpg"
     ]
-  },
-  {
-    "title": "Nike Air Jordan 2",
-    "price": "20000",
-    "desc": "Brand new Nike Air Jordan 2 shoes, designed for comfort and style.",
-    "size": [
-      "8",
-      "9",
-      "10"
-    ],
-    "category": "Shoes",
-    "stock": "Available",
-    "userId": "96fa8ad6-cf74-4898-8858-c27d3814bca3",
-    "imgPath": "http://localhost:3000/Products\\productimage_1729167755979.jpg"
   },
   {
     "title": "ASUS TUF Gaming Laptop",
@@ -173,6 +161,61 @@
       "http://localhost:3000/Products\\productimage_1729248211942.jpeg",
       "http://localhost:3000/Products\\productimage_1729248211942.jpg",
       "http://localhost:3000/Products\\productimage_1729248211947.jpg"
+    ]
+  },
+  {
+    "title": "sada",
+    "price": 222,
+    "desc": "asdsadsaasdsdd",
+    "category": "Furniture",
+    "stock": "Available",
+    "userId": "5c69ce0d-869d-4902-a3d5-8c744a5f58d9",
+    "imgPath": [
+      "http://localhost:3000/Products\\productimage_1729485928042.jpeg"
+    ]
+  },
+  {
+    "title": "Iphone 13",
+    "price": "20000",
+    "desc": "This is an amazing phone",
+    "category": "Mobile",
+    "stock": "Available",
+    "userId": "611fc00d-4dc0-44b9-a800-618bce8a68b1",
+    "imgPath": [
+      "http://localhost:3000/Products\\productimage_1729489624175.png",
+      "http://localhost:3000/Products\\productimage_1729489624176.jpeg",
+      "http://localhost:3000/Products\\productimage_1729489624177.jpeg",
+      "http://localhost:3000/Products\\productimage_1729489624177.jpg"
+    ]
+  },
+  {
+    "title": "Nike Air Jorden 2",
+    "price": 40000,
+    "desc": "THis is an amazing shoes here",
+    "size": [
+      "L",
+      "XL"
+    ],
+    "category": "Shoes",
+    "stock": "Available",
+    "userId": "f87bb924-d33a-407c-839e-44843f69a6b5",
+    "imgPath": [
+      "http://localhost:3000/Products\\productimage_1729489818521.jpg",
+      "http://localhost:3000/Products\\productimage_1729489818529.jpg"
+    ]
+  },
+  {
+    "title": "dsadsad",
+    "price": "22",
+    "desc": "asdsdaddasd",
+    "category": "Jeans",
+    "stock": "Available",
+    "userId": "348633c6-b85a-4828-8afe-a1f11b4e8e68",
+    "imgPath": [
+      "http://localhost:3000/Products\\productimage_1729490487808.jpg"
+    ],
+    "size": [
+      "M"
     ]
   }
 ]
